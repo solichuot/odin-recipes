@@ -1,0 +1,12 @@
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+div {
+    text-align: left;
+    background-color: orange;
+    color: white;
+    font: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}

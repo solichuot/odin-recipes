@@ -1,0 +1,34 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(170, 28, 28);
+    text-align: center;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2 {
+    text-align: center;
+    font-size: bold;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+p {
+    text-align: center;
+}
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+ul.li {
+    font-size: 18px;
+    list-style-type: none;
+}
+div {
+    width: 50%;
+    margin: auto;
+}
+ol {
+    list-style-type: number;
+    text-align: left;
+}
